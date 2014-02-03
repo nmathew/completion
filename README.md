@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/quarnster/completion.png?branch=master)](https://travis-ci.org/quarnster/completion)
+Awesome[![Build Status](https://travis-ci.org/quarnster/completion.png?branch=master)](https://travis-ci.org/quarnster/completion)
 # Goals
 
 This project aims to implement an editor and language agnostic backend with the initial
